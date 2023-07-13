@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/button_bg.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/circlebackground.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/edit_text_bg.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/hompagebackground.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/ic_home.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/ic_homepage.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/ic_homepagewave.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/ic_logout.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/ic_money_transactions.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/ranking_background.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/rankingpointsborder.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/rankrecycler_background.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/separator.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/startgamebackground.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/transact_background.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/transact_button.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/transact_note_background.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/vie_bg.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_homepage.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_login.xml" value="0.20244565217391305" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_main.xml" value="0.20244565217391305" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_ranking.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_test2.xml" value="0.20244565217391305" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_transact.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/app_bar_home.xml" value="0.20244565217391305" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/content_home.xml" value="0.20244565217391305" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/fragment_gallery.xml" value="0.20244565217391305" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/fragment_home.xml" value="0.20244565217391305" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/fragment_slideshow.xml" value="0.20244565217391305" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/header.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/home_toolbar.xml" value="0.20244565217391305" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/nav_header_home.xml" value="0.20244565217391305" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/note_item.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/menu/activity_main_drawer.xml" value="0.209375" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/menu/main_menu.xml" value="0.209375" />
+        <entry key="..\:/Hero/3rdYear/2ndSemester/SOFTENG/AndroidStudioProjects/app/src/main/res/layout/activity_homepage.xml" value="0.25" />
+        <entry key="..\:/Hero/3rdYear/2ndSemester/SOFTENG/AndroidStudioProjects/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Hero/3rdYear/2ndSemester/SOFTENG/AndroidStudioProjects/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Hero/3rdYear/2ndSemester/SOFTENG/AndroidStudioProjects/app/src/main/res/layout/activity_ranking.xml" value="0.25" />
+        <entry key="..\:/Hero/3rdYear/2ndSemester/SOFTENG/AndroidStudioProjects/app/src/main/res/layout/activity_take_aquiz.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

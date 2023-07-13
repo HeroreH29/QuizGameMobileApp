@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503446498912",
+    "project_id": "l-earn-quiz-app",
+    "storage_bucket": "l-earn-quiz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503446498912:android:8f72f91bc6947850621d05",
+        "android_client_info": {
+          "package_name": "com.example.logintest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503446498912-88hf7at6io4dh5rvnjatl2dt032mtu6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgRAFNLCLS_xUdrKz_koWXYWNkSMzLF4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503446498912-88hf7at6io4dh5rvnjatl2dt032mtu6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

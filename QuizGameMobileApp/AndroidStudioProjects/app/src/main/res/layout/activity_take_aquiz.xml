@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".TakeAQuiz">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quiz Category"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toTopOf="@+id/quizCategory"
+        app:layout_constraintEnd_toEndOf="@+id/quizCategory"
+        app:layout_constraintStart_toStartOf="@+id/quizCategory" />
+
+    <RadioGroup
+        android:id="@+id/quizCategory"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RadioButton
+            android:id="@+id/englishBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/black"
+            android:text="English"
+            android:checked="true"/>
+
+        <RadioButton
+            android:id="@+id/filipinoBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/black"
+            android:text="General Knowledge" />
+
+        <RadioButton
+            android:id="@+id/mathBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/black"
+            android:text="Math" />
+
+        <RadioButton
+            android:id="@+id/scienceBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/black"
+            android:text="Science" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/startQuizBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Start Quiz"
+        app:layout_constraintEnd_toEndOf="@+id/quizCategory"
+        app:layout_constraintStart_toStartOf="@+id/quizCategory"
+        app:layout_constraintTop_toBottomOf="@+id/quizCategory" />
+</androidx.constraintlayout.widget.ConstraintLayout>
